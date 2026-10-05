@@ -9,8 +9,6 @@ The dashboard transforms this data into interactive visualizations and key perfo
 
 The Tableau Superstore dataset is commonly used for learning and demonstrating data analysis and visualization because it contains multiple dimensions, measures, dates, geographical information, and profit-related data.
 
-[Dashboard](Dashboard.png)
-
 🔗 [View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/anamika.khollam/viz/Dashboard_17911884926080/Dashboard1?publish=yes)
 
 **2 Tools Used**
