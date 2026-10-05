@@ -11,7 +11,7 @@ The Tableau Superstore dataset is commonly used for learning and demonstrating d
 
 [Dashboard](Dashboard.png)
 
-🔗View the live dashboard on Tableau Public
+🔗 [View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/anamika.khollam/viz/Dashboard_17911884926080/Dashboard1?publish=yes)
 
 **2 Tools Used**
 
